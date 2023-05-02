@@ -1,12 +1,13 @@
 ![Документация](head.png)
 # Учебный проект по «API»
 
-### Выполненный:
-    ⭐Сергей:     https://github.com/chillentano
+### Разработчики:
 
-            ✨Анастасия:  https://github.com/anastaciakaz
+⭐Сергей: https://github.com/chillentano
 
-                ✨Андрей:     https://github.com/SlemCool 
+✨Анастасия: https://github.com/anastaciakaz
+
+✨Андрей: https://github.com/SlemCool 
 
 :small_orange_diamond: **Пояснение.**
 > API_YAMDB информационный ресурс с оценками и отзывами, на книги, фильмы, музыку. Реализованная на фреймворке Django.
