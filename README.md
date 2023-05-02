@@ -64,4 +64,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-:saluting_face:
+🫡
